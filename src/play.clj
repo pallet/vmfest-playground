@@ -1,6 +1,5 @@
-(ns play
-  (:use vmfest.manager
-        [vmfest.virtualbox.image :only [setup-model]]))
+(use 'vmfest.manager)
+(use '[vmfest.virtualbox.image :only [setup-model]])
 
 ;; First we need to define a connection to our VirtualBox host
 ;; service.

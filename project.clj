@@ -1,4 +1,4 @@
-(defproject vmfest-playground "0.1.0"
+(defproject vmfest-playground "0.1.1"
   :description "A project to test vmfest"
   :url "https://github.com/tbatchelli/vmfest"
   :license {:name "Eclipse Public License"
