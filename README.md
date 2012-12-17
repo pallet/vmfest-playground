@@ -5,10 +5,10 @@ A project to test [VMFest](https://github.com/tbatchelli/vmfest).
 ## Usage
 
 Ensure that you have VirtualBox 4.1.x installed and start
-`vboxwebsrvr` by issuing the following on the shell:
+`vboxwebsrv` by issuing the following on the shell:
 
 ```bash
-$ vboxwebsrvr -t0
+$ vboxwebsrv -t0
 ```
 
 and if you haven't done it already, disable login authorization in
